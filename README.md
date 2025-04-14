@@ -10,8 +10,13 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/GitHubActions-20232a?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
-  <img src="https://img.shields.io/badge/Prometheus-20232a?style=for-the-badge&logo=prometheus&logoColor=E6522C" />&nbsp
+  <img src="https://img.shields.io/badge/ArgoCD-20232a?style=for-the-badge&logo=argo&logoColor=EF7B4D" />&nbsp
+  <img src="https://img.shields.io/badge/Harbor-20232a?style=for-the-badge&logo=harbor&logoColor=60B932" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Grafana-20232a?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp
+  <img src="https://img.shields.io/badge/Prometheus-20232a?style=for-the-badge&logo=prometheus&logoColor=E6522C" />&nbsp
+  <img src="https://img.shields.io/badge/Datadog-20232a?style=for-the-badge&logo=datadog&logoColor=632CA6" />&nbsp
 </div>
 
 <br>
