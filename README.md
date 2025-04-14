@@ -6,10 +6,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/kubernetes-20232a?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />&nbsp
   <img src="https://img.shields.io/badge/terraform-20232a?style=for-the-badge&logo=terraform&logoColor=844FBA" />&nbsp
-  <img src="https://img.shields.io/badge/eks-20232a?style=for-the-badge&logo=eks&logoColor=FF9900" />&nbsp
-  
-  <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp -->
-  <!-- <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp -->
+  <img src="https://img.shields.io/badge/AmazonEKS-20232a?style=for-the-badge&logo=amazoneks&logoColor=FF9900" />&nbsp
+  <img src="https://img.shields.io/badge/GitHubActions-20232a?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
+  <img src="https://img.shields.io/badge/Prometheus-20232a?style=for-the-badge&logo=prometheus&logoColor=E6522C" />&nbsp
+  <img src="https://img.shields.io/badge/Grafana-20232a?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 <br>
 
-<h3 align="center">🛠 Tools 🛠</h3>
+<!-- <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
@@ -48,10 +48,10 @@
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-</div>
+</div> -->
 
 <br>
-
+<!--
 <div align="center">
   <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
   <img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
