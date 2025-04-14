@@ -7,16 +7,12 @@
   <img src="https://img.shields.io/badge/kubernetes-20232a?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />&nbsp
   <img src="https://img.shields.io/badge/terraform-20232a?style=for-the-badge&logo=terraform&logoColor=844FBA" />&nbsp
   <img src="https://img.shields.io/badge/AmazonEKS-20232a?style=for-the-badge&logo=amazoneks&logoColor=FF9900" />&nbsp
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/GitHubActions-20232a?style=for-the-badge&logo=githubactions&logoColor=2088FF" />&nbsp
   <img src="https://img.shields.io/badge/Prometheus-20232a?style=for-the-badge&logo=prometheus&logoColor=E6522C" />&nbsp
   <img src="https://img.shields.io/badge/Grafana-20232a?style=for-the-badge&logo=grafana&logoColor=F46800" />&nbsp
 </div>
-
-<!-- <div align="center">
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-</div> -->
 
 <br>
 
