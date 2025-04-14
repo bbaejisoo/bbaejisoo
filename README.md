@@ -4,7 +4,7 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg?style=for-the-badge&logo=react&logoColor=326CE5" />&nbsp
+  <img src="https://img.shields.io/badge/kubernetes-20232a?style=for-the-badge&logo=kubernetes&logoColor=326CE5" />&nbsp
 
   
   <!-- <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp -->
